@@ -1,0 +1,33 @@
+{
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "Fira Code",
+    "debug.console.fontFamily": "Fira Code",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "git.autofetch": true,
+    "editor.tabSize": 2,
+    "[prisma]": {
+        "editor.formatOnSave": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "C_Cpp.default.compilerPath": "${default}",
+    "C_Cpp.codeAnalysis.exclude": {
+    
+    },
+    "C_Cpp.default.includePath": [
+        "${default}",
+    ],
+    "C_Cpp.default.compileCommands": "${default}",
+    "C_Cpp.files.exclude": {
+
+        "**/.vscode": true,
+        "**/.vs": true
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    }
+}

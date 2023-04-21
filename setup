@@ -1,0 +1,22 @@
+Terminal:
+	shell:
+		fish() {
+			fisher;
+			starship;
+			fish-nvm; 
+		}
+Docker:
+	plank
+
+Theme:
+	style:
+		Mkos-BigSur
+	icons:
+		WhiteSur
+
+Code Editor:
+	VS CODE:
+		font:
+			Fira Code
+
+		
